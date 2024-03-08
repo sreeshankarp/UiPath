@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "Main.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "da34a32f-f5a7-4ebd-b0bb-cf2a3349525e",
+        "ActivityIdRef": "Sequence_3",
+        "ActivityId": "1.6",
+        "ActivityName": "S3",
+        "IsTransient": false
+      }
+    ]
+  }
+}
